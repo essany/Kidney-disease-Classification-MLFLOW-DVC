@@ -1,0 +1,4 @@
+[2024-12-15 16:00:10,661: INFO: main: Welcome to our custom log ]
+[2024-12-15 16:02:22,964: INFO: main: Welcome to our custom log ]
+[2024-12-15 19:27:10,114: INFO: test_logger: Testing logger from main script.]
+[2024-12-15 19:27:10,115: INFO: common: This is an example log message from common.py.]
