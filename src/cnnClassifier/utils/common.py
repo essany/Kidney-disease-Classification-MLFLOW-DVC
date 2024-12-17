@@ -1,10 +1,7 @@
-import sys
-import os
-sys.path.append(os.path.abspath("src"))
 import os
 from box.exceptions import BoxValueError
 import yaml
-from src.cnnClassifier import logger
+from cnnClassifier import logger
 import json
 import joblib
 from ensure import ensure_annotations
@@ -12,6 +9,7 @@ from box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
+
 
 
 
